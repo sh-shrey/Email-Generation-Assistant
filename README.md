@@ -33,7 +33,7 @@ email_assistant/
 pip install -r requirements.txt
 ```
 
-### 3. ⚡ Set your OpenAI API Key (recommended: `.env`)
+### 3. Set your OpenAI API Key (recommended: `.env`)
 
 Set `OPENAI_API_KEY` as an environment variable or place it in a `.env` file.
 
